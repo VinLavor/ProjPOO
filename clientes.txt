@@ -1,0 +1,93 @@
+
+==========================
+Cliente especial
+Nome: icaio
+Telefone: 312
+CPF: 1333445
+Custo Total: 40.0
+Pet: das
+Pet: dasda
+==========================
+Nome: caio
+Telefone: 5545426
+CPF: 2132133421
+Custo Total: 20.0
+Pet: caio
+==========================
+Cliente especial
+Nome: Herik Mario
+Telefone: 812047912749124
+CPF: 812041274924
+Custo Total: 72.0
+Pet: Logan
+Pet: gato
+==========================
+Nome: Caio
+Telefone: 986989394
+CPF: 0790402502
+Custo Total: 20.0
+Pet: caiopet1
+Pet: das
+==========================
+Nome: caio
+Telefone: 809898809
+CPF: 22222222
+Custo Total: 10.0
+Pet: caio
+==========================
+Nome: caio
+Telefone: 2213
+CPF: 33122114
+Custo Total: 10.0
+Pet: caio
+==========================
+Cliente especial
+Nome: lvar
+Telefone: 3113
+CPF: 414141
+Custo Total: 24.0
+Pet: caio
+Pet: caio
+==========================
+Nome: Caio
+Telefone: 986989394
+CPF: 07904025302
+Custo Total: 40.0
+Pet: nomePet1
+Pet: nomePet2
+==========================
+Cliente especial
+Nome: lavor
+Telefone: 888888888
+CPF: 312039412
+Custo Total: 16.0
+Pet: petlavor
+==========================
+Nome: Caio
+Telefone: 928283412
+CPF: 32131284
+Custo Total: 40.0
+Pet: doginho
+Pet: caio
+==========================
+Cliente especial
+Nome: Lavor
+Telefone: 3214412421
+CPF: 222222222
+Custo Total: 80.0
+Pet: vni
+Pet: fsada
+==========================
+Nome: Maia
+Telefone: 3412412
+CPF: 361268934
+Custo Total: 50.0
+Pet: maia
+Pet: mais
+==========================
+Cliente especial
+Nome: caio
+Telefone: 312321
+CPF: 3124124151
+Custo Total: 24.0
+Pet: cioa
